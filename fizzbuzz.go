@@ -31,3 +31,4 @@ func main()  {
 	n, _ := strconv.Atoi(getStdin())
 	fmt.Printf(fizz(n)+buzz(n))
 }
+
